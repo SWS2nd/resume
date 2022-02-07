@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sws2nd&label=Profile%20views&color=0e75b6&style=flat" alt="sws2nd" /> </p>
 
-- 🌱 I’m currently learning [파이썬 장고 프레임워크(Python-Django), Recommendation system](https://github.com/SWS2nd/Django-simple-CRUD , https://github.com/SWS2nd/Django---simple-sns-service)
+- 🌱 I’m currently learning 
+> - [파이썬 플라스크 프레임워크(Python-Flask)]<p>
+> - [파이썬 장고 프레임워크(Python-Django)]<p>
+> (https://github.com/SWS2nd/Django-simple-CRUD , https://github.com/SWS2nd/Django---simple-sns-service)
+> - [Recommendation system]
 
 - 👯 This is a collaborative team project [강스타그램(Gangstargram, Dogstargram)](https://github.com/SWS2nd/Deep_learning_Gangstagram)
 
